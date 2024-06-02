@@ -1,4 +1,6 @@
-How to run the Online Shoppinh Portal using PHP and MySQL
+#This project is an Online Shopping Portal developed in PHP. It allows users to browse products, add them to a shopping cart, and make purchases. Admin users can manage products, categories, and orders. The project is designed to provide a seamless shopping experience for users and efficient management tools for administrators.
+
+#How to run the Online Shoppinh Portal using PHP and MySQL
 1. Download the  zip file
 
 2. Extract the file and copy shopping folder
